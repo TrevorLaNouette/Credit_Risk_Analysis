@@ -32,8 +32,8 @@ I was asked to use imbalanced-learn and scikit-learn libraries to build and eval
   
 - <B> Easy Ensemble AdaBoost Classifier</B>
   
+<img width="380" alt="Easy Ensemble AdaBoost Classifier" src="https://user-images.githubusercontent.com/82718969/136466768-1edd204e-e550-4053-b335-d6cffccbe9e9.png">
   
-<img width="257" alt="Easy Ensemble AdaBoost Classifier" src="https://user-images.githubusercontent.com/82718969/136466323-01681533-d956-40f2-909b-9e579aaebb8e.png">
 
 ## Summary:
 
