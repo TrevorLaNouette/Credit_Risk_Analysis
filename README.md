@@ -37,5 +37,4 @@ I was asked to use imbalanced-learn and scikit-learn libraries to build and eval
 
 ## Summary:
 
-There is a summary of the results (2 pt)
-There is a recommendation on which model to use, or there is no recommendation with a justification (3 pt)
+The Easy Ensemble AdaBoost Classifier performed the best of all with the highes average scores in Precision(99%), Recall(94%), and F1 Score(97%). It also had the highest balanced accuracy score of (93%). Most of the methods performed well on low risk credit scores. I would reccomend using the Easy Ensemble AdaBoost Classifier with the help of an underwriter to personally look through all of the high risk identified cases as they had high variablility which was shown in their low precision scores.
